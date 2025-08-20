@@ -15,13 +15,6 @@
 
 ⚡ Fun fact: I enjoy creating projects that solve real-world problems.
 
-🌐 Connect with Me
-https://www.linkedin.com/in/ucontactpawan
-https://www.hackerrank.com/profile/ucontactpawan
-https://leetcode.com/u/ucontactpawan/
-
-
-
 
 
 
