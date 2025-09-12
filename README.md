@@ -1,6 +1,6 @@
 👋 Hi there, I’m Pawan Singh
 
-🚀 Full-stack Developer | PHP, Laravel, MERN, MySQL, JavaScript
+🚀 Full-stack Developer |React, PHP, Laravel, MERN, MySQL, JavaScript
 💡 Passionate about building efficient, scalable, and user-friendly applications.
 
 🧑‍💻 About Me
