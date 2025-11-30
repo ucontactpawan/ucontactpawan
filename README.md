@@ -40,8 +40,5 @@ Git | GitHub | VS Code | XAMPP | Docker
 🔹 Attendance Management System
  – A PHP-based system for employee attendance & notifications.
 
-🔹 Multiple Drag-Drop Table Row
- – Drag-and-drop table row reordering with database integration.
-
 🔹 Booking Portal
  – A MERN-based booking system for seamless user experience.
