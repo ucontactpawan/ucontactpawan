@@ -32,18 +32,16 @@ Git | GitHub | VS Code | XAMPP | Docker | Hostinger
 📌 Featured Projects
 
 🔹 Enterprise Corporate Website (React)
-A modern, fully responsive corporate website built using React, following enterprise-grade 
-UI/UX patterns with a strong focus on performance, accessibility, and clean design
-. (Original implementation inspired by industry standards, no copyrighted assets used.)
+A modern, fully responsive corporate website built with React, following enterprise-grade UI/UX principles with a strong focus on performance, accessibility, and clean design. (Original implementation inspired by industry standards; no copyrighted assets used.)
 
-🔹Employee Responsive Portal
-A modern, fully responsive employee management portal with real-time attendance tracking.
+🔹 Employee Responsive Portal
+A responsive employee management portal featuring real-time attendance tracking and an intuitive user interface.
 
-🔹 Task Flow (React + PHP)
-A task management system developed for organizational use, enabling task assignment, progress tracking,  and productivity monitoring with a clean and efficient workflow.
+🔹 Task Flow –(React + PHP)
+An internal task management solution designed for organizations, enabling task assignment, progress tracking, timelines, and productivity monitoring through a clean and efficient workflow.
 
-🔹 Attendance Management System
- – A PHP-based system for employee attendance & notifications.
+🔹 Attendance Management System (PHP)
+A robust PHP-based system for managing employee attendance with notification support and reporting features.
 
-🔹 Booking Portal
-A scalable MERN-stack booking platform designed for a seamless and intuitive user experience.
+🔹 Booking Portal (MERN Stack)
+A scalable full-stack booking platform built using the MERN stack, designed to deliver a seamless and intuitive end-to-end user experience.
