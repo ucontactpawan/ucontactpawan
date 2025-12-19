@@ -27,18 +27,23 @@ PHP | Laravel | JavaScript | Node.js | React | MERN | Bootstrap | jQuery
 MySQL | MongoDB | SQL Server
 
 ⚙️ Tools & Platforms
-Git | GitHub | VS Code | XAMPP | Docker
+Git | GitHub | VS Code | XAMPP | Docker | Hostinger
 
 📌 Featured Projects
 
-🔹 Employee Responsive Portal
- – A modern, responsive employee management portal with attendance tracking.
+🔹 Enterprise Corporate Website (React)
+A modern, fully responsive corporate website built using React, following enterprise-grade 
+UI/UX patterns with a strong focus on performance, accessibility, and clean design
+. (Original implementation inspired by industry standards, no copyrighted assets used.)
 
-🔹 Laravel Notes Application
- – A feature-rich note-taking app with dark mode & animations.
+🔹Employee Responsive Portal
+A modern, fully responsive employee management portal with real-time attendance tracking.
+
+🔹 Task Flow (React + PHP)
+A task management system developed for organizational use, enabling task assignment, progress tracking,  and productivity monitoring with a clean and efficient workflow.
 
 🔹 Attendance Management System
  – A PHP-based system for employee attendance & notifications.
 
 🔹 Booking Portal
- – A MERN-based booking system for seamless user experience.
+A scalable MERN-stack booking platform designed for a seamless and intuitive user experience.
