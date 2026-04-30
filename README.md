@@ -1,47 +1,77 @@
-👋 Hi there, I’m Pawan Singh
+# 👋 Hi, I’m Pawan Singh
 
-🚀 Full-stack Developer |React, PHP, Laravel, MERN, MySQL, JavaScript
-💡 Passionate about building efficient, scalable, and user-friendly applications.
+Full-Stack Software Engineer specializing in **React, Node.js, and PHP (Laravel/CodeIgniter)**.  
+I design and build **scalable, maintainable, and high-performance web applications** with a focus on clean architecture and real-world problem solving.
 
-🧑‍💻 About Me
+---
 
-🔭 I’m currently working on: Employee management portals, booking systems, and full-stack web applications
+## Expertise
 
-🤝 I’m looking to collaborate on: Open-source projects & full-stack applications
+- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS  
+- **Backend:** Node.js, PHP (Laravel, CodeIgniter)  
+- **Databases:** MySQL, MongoDB  
+- **Architecture:** REST APIs, modular design, performance optimization  
+- **Tools:** Git, Docker, Postman, VS Code  
 
-🌱 I’m currently learning: Laravel advanced concepts & API integrations
+---
 
-💬 Ask me about: PHP, Laravel, MySQL, JavaScript, MERN, APIs, and Web Development
+## Professional Focus
 
-⚡ Fun fact: I enjoy creating projects that solve real-world problems.
+- Building **production-grade full-stack systems**  
+- Designing **clean, maintainable architectures**  
+- Optimizing **performance and scalability**  
+- Delivering **reliable, user-centric solutions**  
 
+---
 
+## Selected Work
 
+### Vehicle Management System (Fleet Platform)
+Designed and developed a full-stack system for managing fleet operations.
 
-🛠 Tech Stack
+- Fleet tracking and lifecycle management  
+- Maintenance logs and service history  
+- Reporting dashboards for operational insights  
+- RESTful API architecture for scalable backend services  
 
-💻 Languages & Frameworks
-PHP | Laravel | JavaScript | Node.js | React | MERN | Bootstrap | jQuery
+---
 
-🗄 Databases
-MySQL | MongoDB | SQL Server
+### E-commerce Platform (CodeIgniter)
+Developed a scalable e-commerce solution using PHP (CodeIgniter).
 
-⚙️ Tools & Platforms
-Git | GitHub | VS Code | XAMPP | Docker | Hostinger
+- Product and inventory management  
+- Secure checkout and order processing  
+- Optimized database queries for performance  
+- Modular backend structure for maintainability  
 
-📌 Featured Projects
+---
 
-🔹 Enterprise Corporate Website (React)
-A modern, fully responsive corporate website built with React, following enterprise-grade UI/UX principles with a strong focus on performance, accessibility, and clean design. (Original implementation inspired by industry standards; no copyrighted assets used.)
+### Employee Management System
+Built a system for managing workforce operations and attendance.
 
-🔹 Employee Responsive Portal
-A responsive employee management portal featuring real-time attendance tracking and an intuitive user interface.
+- Real-time attendance tracking and reporting  
+- Role-based access control  
+- Dashboard for administrative insights  
 
-🔹 Task Flow –(React + PHP)
-An internal task management solution designed for organizations, enabling task assignment, progress tracking, timelines, and productivity monitoring through a clean and efficient workflow.
+---
 
-🔹 Attendance Management System (PHP)
-A robust PHP-based system for managing employee attendance with notification support and reporting features.
+## Engineering Approach
 
-🔹 Booking Portal (MERN Stack)
-A scalable full-stack booking platform built using the MERN stack, designed to deliver a seamless and intuitive end-to-end user experience.
+- Write **clean, testable, and maintainable code**  
+- Follow **modular and scalable architecture patterns**  
+- Focus on **performance, reliability, and security**  
+- Continuously improve through **learning and practical implementation**  
+
+---
+
+## Currently
+
+- Exploring **advanced backend architecture and system design**  
+- Enhancing expertise in **API design and scalable systems**  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ucontactpawan/
+- Email: ucontactpawan@gmail.com
