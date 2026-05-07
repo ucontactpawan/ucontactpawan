@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/ucontactpawan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ucontactpawan" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="mailto:ucontactpawan@gmail.com">
@@ -90,7 +90,7 @@ I'm a Full-Stack Developer with a passion for building **scalable, maintainable,
 
 ```
 ✅ Vehicle Management System     — Fleet tracking, maintenance logs, RESTful APIs
-✅ E-commerce Platform           — CodeIgniter, inventory management, secure checkout
+✅ E-commerce Frontend UI        — Amazon-inspired responsive shopping website
 ✅ Employee Management System    — Real-time attendance, role-based access control
 ✅ Task Manager Web App          — Workflow & task management with clean UI
 ✅ React + WordPress Headless    — Production-ready site with headless CMS integration
