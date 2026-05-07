@@ -29,7 +29,7 @@
 
 🎓 **MCA — Sharda University** &nbsp;|&nbsp; 💼 **SDE 1 @ Ocean Techventures** &nbsp;|&nbsp; 📍 **Noida, India**
 
-I'm a Full-Stack Developer with a passion for building **scalable, maintainable, and high-performance** web applications. I write clean, modular code with a focus on real-world impact — from employee management systems and task managers to web portals and booking platforms.
+I'm a Full-Stack Developer with a passion for building **scalable, maintainable, and high-performance** web applications. I focus on writing clean, modular code that solves real-world problems — from employee management systems and task managers to booking platforms, fleet management portals, and enterprise web applications.
 
 🌱 Currently exploring **AI & Machine Learning** to integrate intelligent features into modern web apps.
 🤝 Open to **Full Stack / Backend** opportunities — Remote or Global.
