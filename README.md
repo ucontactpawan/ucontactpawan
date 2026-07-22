@@ -74,9 +74,11 @@ I'm a Full-Stack Developer with a passion for building **scalable, maintainable,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ucontactpawan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="60%" />
-
+  <img
+    src="https://streak-stats.demolab.com?user=ucontactpawan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+    alt="GitHub Streak Stats"
+    width="60%"
+  />
 </div>
 
 ---
